@@ -1,5 +1,5 @@
 # Power-Bi
-Comprehensive Assessment(Power BI)
+
 1. Load Data: Import your COVID-19 dataset into Power BI.
 2. Data Cleaning: Ensure your data is clean, with no missing or incorrect values.
 3. Create Relationships: If using multiple datasets, establish relationships between tables.
