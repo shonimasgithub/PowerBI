@@ -1,4 +1,4 @@
-# Power-Bi
+# PowerBI
 
 1. Load Data: Import your COVID-19 dataset into Power BI.
 2. Data Cleaning: Ensure your data is clean, with no missing or incorrect values.
